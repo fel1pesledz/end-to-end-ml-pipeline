@@ -1,9 +1,0 @@
-# jupyter notebook checkpoints
-.ipynb_checkpoints/
-
-# virtual environment
-ml_env/
-
-# data files
-*.tgz
-datasets/
